@@ -7,13 +7,26 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@2alheure/vue-datatable": "^1.1.2",
+    "@tinymce/tinymce-vue": "^5.0.0",
+    "axios": "^0.27.2",
+    "chart.js": "^3.8.0",
     "core-js": "^3.8.3",
+    "primeflex": "^3.2.1",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.12.6",
+    "prismjs": "^1.28.0",
     "register-service-worker": "^1.7.2",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.15"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-pwa": "~5.0.0",
-    "@vue/cli-service": "~5.0.0"
+    "@vue/cli-plugin-router": "^5.0.4",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "sass": "^1.45.0",
+    "sass-loader": "^8.0.2"
   }
 }
